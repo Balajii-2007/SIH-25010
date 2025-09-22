@@ -148,4 +148,5 @@ We propose a **Voice-Based Profit-Optimized Farming Calendar** that combines AI,
 
 ---
 ## Flow Chart
-<img width="1536" height="1024" alt="flowchart" src="https://github.com/user-attachments/assets/33b5c9f1-e5cd-45a2-adc0-56fad9d2005b" />
+<img width="1536" height="1024" alt="FLOW CHART" src="https://github.com/user-attachments/assets/fd0f9f1d-3275-4923-8f46-3a971af39b22" />
+
